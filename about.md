@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I like to learn about stuffs. Eat, sleep, code!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Just an alien coder from the 6th dimension trying to learn about your world. It's interesting.
 
 ### Contact me
 
